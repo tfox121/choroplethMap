@@ -1,5 +1,5 @@
 # FCC: Choropleth Map
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/tfox121/pen/pozXqrW](https://codepen.io/tfox121/pen/pozXqrW).
+See it in action: [https://tfox121.github.io/choroplethMap/](https://tfox121.github.io/choroplethMap/).
 
 
